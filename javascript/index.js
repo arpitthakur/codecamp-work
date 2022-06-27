@@ -5,5 +5,5 @@ function sum(){
   c = a + b;
 
   document.getElementById("thirdbox").value = c;
-    
+    return false;   
   }
