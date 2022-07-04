@@ -5,7 +5,7 @@
   height:auto;
  margin-top:173px;
 
-  
+
 }
 input{
   width:400px;
@@ -17,6 +17,12 @@ button{
   height:40px;
 }
 span{
-  color: red;
+  color: rgb(0, 213, 255);
   display: none;
+}
+table,tr,th,td{
+  border:1px solid black;
+}
+table{
+  width:100%
 }
